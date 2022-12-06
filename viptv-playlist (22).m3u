@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:0,Star gold HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8015&extension=m3u8&play_token=ikmVpsTa4a
+#EXTINF:0,Star gold 2
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=86051&extension=m3u8&play_token=Ga5uWeJlvl
+#EXTINF:0,Star gold select HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161929&extension=m3u8&play_token=QsUd9fuOlx
+#EXTINF:0,Utv action 
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161947&extension=m3u8&play_token=dqCuGvL28v
+#EXTINF:0,Utv movies 
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161948&extension=m3u8&play_token=eUMDFB9qkt
+#EXTINF:0,Star plus 
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7932&extension=m3u8&play_token=2I8ObZjCbn
+#EXTINF:0,Star sports 1 HD 
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=260998&extension=m3u8&play_token=PktZPN8UK9
+#EXTINF:0,Star sports 2 HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=260999&extension=ts&play_token=G69ablft0N
+#EXTINF:0,Willow cricket HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=98525&extension=m3u8&play_token=GAqOglyYlG
+#EXTINF:0,Star movies hd
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161932&extension=m3u8&play_token=N7K8wi7qBQ
+#EXTINF:0,Star movies select HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161933&extension=m3u8&play_token=WFtUtSxnt
+#EXTINF:0,Disney channel
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161864&extension=m3u8&play_token=2LR0q0qlwf
+#EXTINF:0,Hungama
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=161878&extension=m3u8&play_token=zlO5cAifND
+#EXTINF:0,Ary digital
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=201029&extension=m3u8&play_token=RRV1rAC54Z
+#EXTINF:0,Hum tv HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=172739&extension=m3u8&play_token=rBsZnpHIq6
+#EXTINF:0,Hum sitaray
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7943&extension=m3u8&play_token=R6khzsOVyd
+#EXTINF:0,Geo entertainment
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=240564&extension=m3u8&play_token=yVQkeZQUKh
+#EXTINF:0,Geo kahani
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7956&extension=m3u8&play_token=dKV0H9rmOF
+#EXTINF:0,A plus
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7952&extension=m3u8&play_token=9h26rGS1GI
+#EXTINF:0,Express entertainment
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7959&extension=m3u8&play_token=aWYP9S98ev
+#EXTINF:0,Bol entertainment HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8007&extension=m3u8&play_token=kRMwNKH3LY
+#EXTINF:0,Bol news HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7953&extension=m3u8&play_token=yUrGlwMs1R
+#EXTINF:0,Ary news Hd
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=239420&extension=m3u8&play_token=T5KKfg9Rsn
+#EXTINF:0,Ptv news HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7974&extension=m3u8&play_token=YOtJ3rkzrM
+#EXTINF:0,Aaj news HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7954&extension=m3u8&play_token=sbSbdnZJvU
+#EXTINF:0,Gnn news
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=11430&extension=ts&play_token=CRtXnryR66
+#EXTINF:0,Neo news
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=9059&extension=ts&play_token=mtnh8NOdws
+#EXTINF:0,Ptv sports HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=263669&extension=m3u8&play_token=3mnB78S24F
+#EXTINF:0,Ten sports HD
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=7972&extension=m3u8&play_token=aDzHww7IO5
+#EXTINF:0,
