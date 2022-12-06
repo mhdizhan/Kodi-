@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Star gold HD
+#EXTINF:0,tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png"Star gold HD
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=8015&extension=m3u8&play_token=ikmVpsTa4a
 #EXTINF:0,Star gold 2
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=86051&extension=m3u8&play_token=Ga5uWeJlvl
